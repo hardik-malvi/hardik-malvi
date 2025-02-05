@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Hardik!  
+### 🚀 MEAN Stack Developer | Exploring Microservices & Module Federation  
 
-<!--
-**hardik-malvi/hardik-malvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **MEAN (MongoDB, Express.js, Angular, Node.js) Stack Developer** with a keen interest in building **scalable, efficient, and high-performance** applications.  
 
-Here are some ideas to get you started:
+## 🔥 About Me  
+- 💻 Currently working as a **MEAN Stack Developer**  
+- ⚡ Exploring **Microservices Architecture** and **Module Federation**  
+- 🏗️ Building scalable and maintainable applications with **Node.js & Angular**  
+- 🛠️ Love problem-solving and writing clean, efficient code  
+- 📖 Constantly learning new technologies to enhance development efficiency  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+- **Frontend**: Angular, TypeScript, RxJS, Tailwind CSS  
+- **Backend**: Node.js, Express.js, NestJS  
+- **Database**: MongoDB, MySQL  
+- **DevOps & Tools**: Docker, Kubernetes, Git, CI/CD  
+
+## 📌 My Interests  
+- 🏗 **Microservices & Module Federation** - Making large applications more modular and scalable  
+- 🚀 **Performance Optimization** - Ensuring smooth and fast web applications  
+- 🔗 **API Development** - Building robust, secure, and RESTful APIs  
+
+## 📫 Connect with Me  
+- 💼 [LinkedIn](https://in.linkedin.com/in/hardikmalvi)  
+- 📧 Email: [malvi.hardik13@gmail.com](mailto:malvi.hardik13@gmail.com)  
+
+Let's build something amazing together! 🚀  
