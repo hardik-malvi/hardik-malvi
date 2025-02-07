@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a **MEAN Stack Developer** passionate about bu
 💾 MongoDB | 🛢 MySQL  
 
 ### 🚀 **DevOps & Tools**  
-🔄 Git | ⚡ CI/CD  
+🐳 Docker | ☸️ Kubernetes | 🔄 Git | ⚡ CI/CD  
 
 ---
 
@@ -47,12 +47,14 @@ Welcome to my GitHub profile! I'm a **MEAN Stack Developer** passionate about bu
 
 ## 📂 My Projects Index 🗂  
 
-| 🔢 # | 📌 Topic | 🔗 Repository |  
+| 🔢  | 📌 Topic | 🔗 Repository |  
 |---|--------|------------|  
-| 1️⃣ | **MEAN Stack Boilerplate** | [Repo Link](#) 🏗 |  
-| 2️⃣ | **Microservices with NestJS** | [Repo Link](#) 🛠️ |  
-| 3️⃣ | **Angular Module Federation Demo** | [Repo Link](#) 🎨 |  
-| 4️⃣ | **Performance Optimization in Angular** | [Repo Link](#) ⚡ |  
-| 5️⃣ | **Scalable API Development with Node.js** | [Repo Link](#) 🔥 |  
+| 1️⃣ | **Angular Module Federation Demo for Module** |
+|    | Host App | 🔗 [Host Repo](https://github.com/hardik-malvi/host-app-module) |
+|    | Remote App | 🔗 [Remote Repo](https://github.com/hardik-malvi/remote-app-module) |  
+| 2️⃣ | **Angular Module Federation Demo for Component** |
+|    | Host App | 🔗 [Host Repo](https://github.com/hardik-malvi/host-app-component) |
+|    | Remote App | 🔗 [Remote Repo](https://github.com/hardik-malvi/remote-app-component) |  
+
 
 🎯 *More repositories coming soon... Stay tuned!* 🚀  
